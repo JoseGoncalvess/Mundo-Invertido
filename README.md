@@ -4,7 +4,7 @@
 
 ## ▶️ Semana Front-end
 Projeto trabalhado durante esta semna em evento online voltado para intodução  a tecnologias abordadas abaixo.
-porjeto mediado pela [Dio](https://www.dio.me/) e seus colaboradores/ professores:
+porjeto mediado pela [Dio](https://www.dio.me/) e seus colaboradores/ professores: 
 
 <div style="display: inline_block"> <p>
     <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/16018277?v=4"/>
@@ -25,6 +25,12 @@ porjeto mediado pela [Dio](https://www.dio.me/) e seus colaboradores/ professore
     </p>
 </p></div>
 <br>
+
+<p align="center">
+ 💻 Live <br>
+   <img src="assets/images/favicon/live.jpeg" alt="Pessoal da live" height="300px" width="450px" > 
+</p>
+
 
 
 ## 💻 Tecnologias
