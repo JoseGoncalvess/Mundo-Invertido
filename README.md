@@ -29,6 +29,7 @@ porjeto mediado pela [Dio](https://www.dio.me/) e seus colaboradores/ professore
 <p align="center">
  💻 Live <br>
    <img src="assets/images/favicon/live.jpeg" alt="Pessoal da live" height="300px" width="450px" > 
+    <img src="assets/images/favicon/live-2.png" alt="Pessoal da live" height="300px" width="450px" > 
 </p>
 
 
