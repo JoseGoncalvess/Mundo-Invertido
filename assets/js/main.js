@@ -24,8 +24,6 @@ btnSubscribe.addEventListener('click', async () => {
   email.value = ''
   level.value = ''
   character.value = ''
-
-  window.alert(`olá ${txtName} Sua Inscrição fi feita com sucesso!`)
 })
 
 //quando a tela carregarvai mostras as infomações la do banco de dados
